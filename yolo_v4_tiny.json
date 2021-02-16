@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TFYOLOV3",
+    "match_kind": "general",
+    "custom_attributes": {
+      "classes": 7,
+      "anchors": [13, 17,  23, 28,  37, 36,  44, 57,  70, 67, 104,110],
+      "coords": 4,
+      "num": 6,
+      "masks": [[3, 4, 5], [1, 2, 3]],
+      "entry_points": ["detector/yolo-v4-tiny/Reshape", "detector/yolo-v4-tiny/Reshape_4"]
+    }
+  }
+]
